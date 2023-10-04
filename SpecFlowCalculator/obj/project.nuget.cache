@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mjv9aDEwPm5JsxwZc7Gozpc7AH/4gmkP+CWU+M6KpSCjbmdy+nhFQfZOeLQCWtkcEdToMY2Ga8+XGKSWGdbmyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\SpecFlowCalculator\\SpecFlowCalculator\\SpecFlowCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
